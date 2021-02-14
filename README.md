@@ -15,6 +15,8 @@ Study of a simple CSS and HTML form. This form has been developed from the tutor
 # Links de Referência
 <h2 align="center"><a href="https://giovannamoeller.github.io/links/" target="_blank"><img alt="Girl Coding" title="Instructor" src="https://raw.githubusercontent.com/Auriflanos/Register-Form/main/SharedScreenshot.jpg" width="200px"/></a></h2>
 
+# **Programming**
+<h2 align="center"><img alt="Register_Form" title="Register_Form" src="https://www.dropbox.com/s/lvt9ce2b90b867u/Video-Estudo.gif?raw=1" width="800px" /></h2>
 
 # **Results**
 <h2 align="center"><img alt="Register_Form" title="Register_Form" src="https://raw.githubusercontent.com/Auriflanos/Register-Form/main/FinalResults.jpg" width="800px" /></h2>
