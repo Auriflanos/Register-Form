@@ -4,15 +4,15 @@
 </h1>
 
 # Table of Contents
-- [Introdução](#Introdução)
-- [Links de Referência](#Links-de-Referência)
+- [Introduction](#Introduction)
+- [Reference Links](#Reference-Links)
 
-# Introdução 
+# Introduction 
 
 Study of a simple CSS and HTML form. This form has been developed from the tutorial from You Tuber Girl.coding (Link below).
 
 
-# Links de Referência
+# Reference Links
 <h2 align="center"><a href="https://giovannamoeller.github.io/links/" target="_blank"><img alt="Girl Coding" title="Instructor" src="https://raw.githubusercontent.com/Auriflanos/Register-Form/main/SharedScreenshot.jpg" width="200px"/></a></h2>
 
 # **Results**
